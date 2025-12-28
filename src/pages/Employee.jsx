@@ -17,9 +17,12 @@ function Employee() {
 
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
-
-    const handleClose2 = () => setShow2(false);
+  const handleClose2 = () => setShow2(false);
   const handleShow2 = () => setShow2(true);
+
+
+
+  
   return (
     <>
       <div clasName='container mt-5'>
