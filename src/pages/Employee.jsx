@@ -198,7 +198,7 @@ useEffect(() => {
             update Employee
           </Button>
         </Modal.Footer>
-      </Modal>
+      </Modal> /
     </>
   )
 }
